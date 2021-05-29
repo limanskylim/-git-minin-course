@@ -51,6 +51,9 @@ git push -u origin any_branch
 12 скачать новые файлы с github
 git pull
 
+13 удалить ветку
+ git branch -D branch_name
+
 
 
 
