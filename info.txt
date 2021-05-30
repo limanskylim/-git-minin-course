@@ -43,7 +43,7 @@ git merge admin = (main + admin) => main будет содержать всё ч
 git remote add original https://github.com/limanskylim/git_learning.git
 проверка подключения - git remote => ответ должен быть origin
 
-11 добавить ветку на github
+11 залить ветку на github
 git push -u origin main
 git push -u origin admin
 git push -u origin any_branch
